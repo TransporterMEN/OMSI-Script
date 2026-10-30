@@ -3,3 +3,5 @@ Egy magyar nyelvű tutorial az OMSI 2 (illetve openOmsi) programozási nyelvéhe
 
 A tutorial videókat a [következő csatornán](https://www.youtube.com/@TransporterMen) találhatóak!
 Sok sikert a tanuláshoz!
+
+Az anyagok letölthetőek itt: [Letöltés](https://github.com/TransporterMEN/OMSI-Script/releases)
